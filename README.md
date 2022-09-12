@@ -44,3 +44,5 @@ I'm also doing some mini-projects from FreeCodeCamp. Check it out <a href="https
 ## <img src="https://user-images.githubusercontent.com/89598954/189702029-6462cd75-b71e-4612-899f-c2282f068bf1.png" width="40" height="40" /> What I plan to learn in the nearest future:
 - TypeScript
 - JQuery
+
+![Snake animation](https://github.com/KossakowskaKarolina/KossakowskaKarolina/blob/output/github-contribution-grid-snake.svg)
