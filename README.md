@@ -3,7 +3,7 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/89598954/189699663-5611891c-e4f3-4138-ac86-a4216cdb46f1.png" width="40" height="40" /> About Me
-Hi! My name is Karolina and I’m currently looking for a job as a Junior Frontend Developer. You can reach me via e-mail or <a href='www.linkedin.com/in/karolina-kossakowska'>LinkedIn</a>. Don't forget to see my <a href='https://codepen.io/KaroKossi'>CodePen profile</a>!
+Hi! My name is Karolina and I’m currently looking for a job as a Junior Frontend Developer. You can reach me via e-mail or <a href='https://www.linkedin.com/in/karolina-kossakowska'>LinkedIn</a>. Don't forget to see my <a href='https://codepen.io/KaroKossi'>CodePen profile</a>!
 
 
 ## <img src="https://user-images.githubusercontent.com/89598954/189700283-7ae20527-d074-403e-824c-dc74a565de2b.png" width="40" height="40" /> Things I would bring to your team:
