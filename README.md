@@ -2,7 +2,7 @@
 # <img src="https://user-images.githubusercontent.com/89598954/189699307-1fdff4de-d108-45a4-a7f6-c35ab1ae0f1c.png" width="45" height="45" />  Karolina Kossakowska, Frontend Developer 
 
 
-## <img src="https://user-images.githubusercontent.com/89598954/189699663-5611891c-e4f3-4138-ac86-a4216cdb46f1.png" width="40" height="40" /> About Me
+## <img src="https://user-images.githubusercontent.com/89598954/189699663-5611891c-e4f3-4138-ac86-a4216cdb46f1.png" width="40" height="40" /> About Me:
 Hi! My name is Karolina and I’m currently looking for a job as a Junior Frontend Developer. You can reach me via e-mail or <a href='https://www.linkedin.com/in/karolina-kossakowska'>LinkedIn</a>. Don't forget to see my <a href='https://codepen.io/KaroKossi'>CodePen profile</a>!
 
 
@@ -28,13 +28,15 @@ Hi! My name is Karolina and I’m currently looking for a job as a Junior Fronte
 </p>
 
 
-## <img src="https://user-images.githubusercontent.com/89598954/189700712-b93855d3-e635-448e-81c6-c115063279d6.png" width="40" height="40" /> My current challenges:
+## <img src="https://user-images.githubusercontent.com/89598954/189700712-b93855d3-e635-448e-81c6-c115063279d6.png" width="40" height="40" /> My projects:
 
-I’ve recently challenged myself on building React SPA application from scratch. I practice my React skills and learning how to design a decent component structure.
+- <a href='https://kossakowskakarolina.github.io/basic-calculator/'>Basic Calculator App</a> - Vanilla JS calculator app. Would you dare checking what happens if you try to divide by zero?
 
-You can check out my progress <a href="https://github.com/KossakowskaKarolina/space-tourism-website">here</a>. Any feedback would be appreciated! Please keep in mind that it's still work in progress! 
+- <a href ='https://www.freecodecamp.org/certification/KaroKossi/front-end-development-libraries'>JavaScript and React projects</a> - Here you can find 5 projects including React Pomodoro Clock and Drum Machine.
 
-I'm also doing some mini-projects from FreeCodeCamp. Check it out <a href="https://codepen.io/KaroKossi">here</a>!
+Did I mention that I am also an open source <a href='https://github.com/osPrims/chatApp/graphs/contributors'>contributor</a>? 
+
+Here there is the <a href='https://en.meming.world/images/en/b/be/But_It%27s_Honest_Work.jpg'>shortest summary</a> of my work.
 
 
 ## <img src="https://user-images.githubusercontent.com/89598954/189702105-61d8c0fe-84aa-4dea-a438-07041572bc56.png" width="40" height="40" /> What I’m currently learning:
@@ -44,3 +46,8 @@ I'm also doing some mini-projects from FreeCodeCamp. Check it out <a href="https
 ## <img src="https://user-images.githubusercontent.com/89598954/189702029-6462cd75-b71e-4612-899f-c2282f068bf1.png" width="40" height="40" /> What I plan to learn in the nearest future:
 - TypeScript
 - JQuery
+
+
+# Feel free to contact me!
+
+
